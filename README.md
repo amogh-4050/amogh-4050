@@ -39,32 +39,66 @@ I'm a 3rd-year Computer Science student at PES University Bangalore building sys
 
 ## 🛠️ Technical Stack
 
-### **Languages**
-Python, Java, C, C++, JavaScript/TypeScript, SQL, Bash
+### Languages
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=sqlite&logoColor=white)
+![Bash](https://img.shields.io/badge/BASH-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-### **AI/ML Frameworks**
-PyTorch, TensorFlow, LangChain, CrewAI, HuggingFace, LLM agents, RAG, Ollama, Scikit-learn, Pandas, NumPy
+### AI/ML Frameworks
+![PyTorch](https://img.shields.io/badge/PYTORCH-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TENSORFLOW-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LANGCHAIN-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CREWAI-FF6B6B?style=flat-square&logo=robot&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/PANDAS-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NUMPY-013243?style=flat-square&logo=numpy&logoColor=white)
 
-### **Robotics & Simulation**
-ROS2 (Humble), Gazebo, Genesis physics engine, SLAM, Nav2, PID control, rtabmap, COLMAP, FluidX3D, ANSYS Fluent
+### Robotics & Simulation
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
+![Gazebo](https://img.shields.io/badge/GAZEBO-FF6B00?style=flat-square&logo=gazebo&logoColor=white)
+![COLMAP](https://img.shields.io/badge/COLMAP-4CAF50?style=flat-square&logo=photoshop&logoColor=white)
+![FluidX3D](https://img.shields.io/badge/FLUIDX3D-0066CC?style=flat-square&logo=water&logoColor=white)
+![ANSYS Fluent](https://img.shields.io/badge/ANSYS%20FLUENT-EC1C24?style=flat-square&logo=ansys&logoColor=white)
 
-### **Embedded & IoT**
-ESP32, Arduino, nRF52840, BLE, Raspberry Pi, IMU fusion, Madgwick filter, UART/SPI/I2C
+### Embedded & IoT
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/ARDUINO-00979D?style=flat-square&logo=arduino&logoColor=white)
+![nRF52840](https://img.shields.io/badge/NRF52840-0066CC?style=flat-square&logo=bluetooth&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/RASPBERRY%20PI-A22333?style=flat-square&logo=raspberrypi&logoColor=white)
 
-### **3D & Graphics**
-Three.js, WebGL, 3D Gaussian Splatting, COLMAP SfM, Depth Estimation, Onshape CAD, NVIDIA Omniverse
+### 3D & Graphics
+![Three.js](https://img.shields.io/badge/THREE.JS-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![WebGL](https://img.shields.io/badge/WEBGL-990000?style=flat-square&logo=webgl&logoColor=white)
+![Gaussian Splatting](https://img.shields.io/badge/3D%20GAUSSIAN%20SPLATTING-4B0082?style=flat-square&logo=blender&logoColor=white)
+![NVIDIA Omniverse](https://img.shields.io/badge/NVIDIA%20OMNIVERSE-76B900?style=flat-square&logo=nvidia&logoColor=white)
 
-### **Full-Stack Web**
-MERN Stack (React, Node.js, Express, MongoDB), FastAPI, Flask, Thymeleaf, Spring Boot
+### Full-Stack Web
+![React](https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/NODE.JS-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/EXPRESS-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MONGODB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FASTAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SPRING%20BOOT-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 
-### **Distributed Systems & DevOps**
-Docker, Docker Compose, Kubernetes concepts, RAFT consensus, microservices, healthchecks, graceful shutdown
+### DevOps & Infrastructure
+![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-### **Networking & Security**
-Open5GS, UERANSIM, 5G core network functions, RF fingerprinting, network telemetry, cybersecurity research
+### 5G & Networking
+![Open5GS](https://img.shields.io/badge/OPEN5GS-0066CC?style=flat-square&logo=signal&logoColor=white)
+![UERANSIM](https://img.shields.io/badge/UERANSIM-FF6B6B?style=flat-square&logo=signal&logoColor=white)
 
-### **Development Tools**
-Git, GitHub, Claude Code, Cursor, VS Code, Linux (Ubuntu 22.04), nala package manager, code-review-graph MCP
+### Development Tools
+![Claude](https://img.shields.io/badge/CLAUDE-FF6B6B?style=flat-square&logo=anthropic&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20CODE-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Cursor](https://img.shields.io/badge/CURSOR-09B3AF?style=flat-square&logo=cursor&logoColor=white)
 
 ---
 
