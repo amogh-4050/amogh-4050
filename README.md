@@ -124,7 +124,7 @@ I'm a 3rd-year Computer Science student at PES University Bangalore building sys
 
 ## 📝 Current Focus
 
-**Summer 2026 Internships**: Targeting robotics, aerospace, and AI roles in Bangalore (visa constraints).  
+**Summer 2026 Internships**: Targeting robotics, aerospace, and AI roles .
 Actively working on MiniRAFT, OrbitBase OOAD, 5G security research, and LBM-PINN aerodynamic surrogates.
 
 ---
